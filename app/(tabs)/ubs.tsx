@@ -1,13 +1,13 @@
 import { FontAwesome6 } from '@expo/vector-icons';
-import React, { useState } from "react";
+import { useState } from "react";
 import {
-  FlatList,
-  Modal,
-  Pressable,
-  StyleSheet,
-  Text,
-  TouchableOpacity,
-  View,
+    FlatList,
+    Modal,
+    Pressable,
+    StyleSheet,
+    Text,
+    TouchableOpacity,
+    View,
 } from "react-native";
 
 const ubsList = [
